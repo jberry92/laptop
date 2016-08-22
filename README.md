@@ -5,7 +5,7 @@ This script is designed to install and configure Sparta student and trainer macO
 ### Manual Steps to install
 
 1. Initial macOS Setup Wizard (Laptop name, WiFi etc). Admin staff will provide the username and password to use when configuring this part.
-2. Run `xcode-select --install` to isnall the Command Line tools
+2. Run `xcode-select --install` to isnall the Command Line tools.
 2. Run install script: `cd ~; bash <(curl -s https://raw.githubusercontent.com/spartaglobal/laptop/master/mac)` 
 3. Type the admin password.
 4. Wait **Ages**!
